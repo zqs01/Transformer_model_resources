@@ -16,8 +16,24 @@ Transformer模型来源于文章[attention is all you need](https://arxiv.org/ab
 
 [illustrated-transformer](https://jalammar.github.io/illustrated-transformer/)
 
-[illustrated-transformer中文版本](https://www.zhihu.com/search?type=content&q=Transformer)
+[illustrated-transformer中文版本](https://zhuanlan.zhihu.com/p/48508221)
 
 [聊聊Transformer](https://zhuanlan.zhihu.com/p/47812375)
 
 [google Tensor2Tensor系统](https://cloud.tencent.com/developer/article/1153079)
+
+## GitHub上开源的项目
+
+[State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
+
+[A TensorFlow Implementation of the Transformer: Attention Is All You Need](https://github.com/Kyubyong/transformer)
+
+[哈佛大学NLP开源 annotated-transformer](https://github.com/harvardnlp/annotated-transformer)
+
+**ASR方向**
+
+[A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese.](https://github.com/kaituoxu/Speech-Transformer)
+
+[End-to-End Speech Processing Toolkit](https://github.com/espnet/espnet)
+
+
